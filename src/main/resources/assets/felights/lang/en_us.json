@@ -6,5 +6,7 @@
 
   "block.felights.tungsten_block": "Block of Tungsten",
   "block.felights.tungsten_ore": "Tungsten Ore",
-  "block.felights.deepslate_tungsten_ore": "Deepslate Tungsten Ore"
+  "block.felights.deepslate_tungsten_ore": "Deepslate Tungsten Ore",
+  "block.felights.endstone_tungsten_ore": "Endstone Tungsten Ore",
+  "block.felights.nether_tungsten_ore": "Nether Tungsten Ore"
 }

@@ -49,4 +49,14 @@ public class ModBlocks {
             () -> new DropExperienceBlock(BlockBehaviour.Properties.of(Material.STONE)
                     .strength(6f).requiresCorrectToolForDrops(),
                     UniformInt.of(3, 7)), ModCreativeModeTab.FELIGHTS_TAB);
+
+    public static final RegistryObject<Block> NETHER_TUNGSTEN_ORE = registerBlock("nether_tungsten_ore",
+            () -> new DropExperienceBlock(BlockBehaviour.Properties.of(Material.STONE)
+                    .strength(6f).requiresCorrectToolForDrops(),
+                    UniformInt.of(3, 7)), ModCreativeModeTab.FELIGHTS_TAB);
+
+    public static final RegistryObject<Block> ENDSTONE_TUNGSTEN_ORE = registerBlock("endstone_tungsten_ore",
+            () -> new DropExperienceBlock(BlockBehaviour.Properties.of(Material.STONE)
+                    .strength(6f).requiresCorrectToolForDrops(),
+                    UniformInt.of(3, 7)), ModCreativeModeTab.FELIGHTS_TAB);
 }
