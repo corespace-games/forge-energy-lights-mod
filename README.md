@@ -13,6 +13,10 @@
 <span>This mod only consumes forge energy and will not provide a way to generate it</span>
 
 <h2>Changelog</h2>
+<h3>indev.1.0.3</h3>
+<ul>
+    <li>[aecf493](https://github.com/corespace-games/forge-energy-lights-mod/commit/aecf493446dcac128ba19dd09891907d5248a067) TASK: added loot_tables for tungsten resources</li>
+</ul>
 <h3>indev-1.0.2:</h3>
 <ul>
     <li>[9cc191d](https://github.com/corespace-games/forge-energy-lights-mod/commit/9cc191d5052b93f6649ff831964b3905bdceaca9) TASK: increased version to indev-1.0.2</li>
