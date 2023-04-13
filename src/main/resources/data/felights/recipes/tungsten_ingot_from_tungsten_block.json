@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "felights:tungsten_block"
+    }
+  ],
+  "result": {
+    "item": "felights:tungsten_ingot",
+    "count": 9
+  }
+}
