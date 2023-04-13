@@ -4,7 +4,7 @@
   "experience": 0.7,
   "group": "tungsten_ingot",
   "ingredient": {
-    "item": "felights:deepslate_tungsten_ore"
+    "item": "felights:nether_tungsten_ore"
   },
   "result": "felights:tungsten_ingot"
 }

@@ -4,7 +4,7 @@
   "experience": 0.7,
   "group": "tungsten_ingot",
   "ingredient": {
-    "item": "felights:tungsten_ore"
+    "item": "felights:raw_tungsten"
   },
   "result": "felights:tungsten_ingot"
 }
