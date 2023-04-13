@@ -1,6 +1,7 @@
 package de.corespace.felights;
 
 import com.mojang.logging.LogUtils;
+import de.corespace.felights.block.ModBlocks;
 import de.corespace.felights.item.ModItems;
 import net.minecraftforge.api.distmarker.Dist;
 import net.minecraftforge.common.MinecraftForge;
@@ -25,6 +26,7 @@ public class FELights {
         IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();
 
         ModItems.register(modEventBus);
+        ModBlocks.register(modEventBus);
 
         // Register the commonSetup method for modloading
         modEventBus.addListener(this::commonSetup);

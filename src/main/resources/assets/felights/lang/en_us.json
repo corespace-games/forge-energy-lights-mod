@@ -2,5 +2,9 @@
   "itemGroup.felights": "FeLights Mod",
 
   "item.felights.tungsten_ingot": "Tungsten Ingot",
-  "item.felights.raw_tungsten": "Raw Tungsten"
+  "item.felights.raw_tungsten": "Raw Tungsten",
+
+  "block.felights.tungsten_block": "Block of Tungsten",
+  "block.felights.tungsten_ore": "Tungsten Ore",
+  "block.felights.deepslate_tungsten_ore": "Deepslate Tungsten Ore"
 }
